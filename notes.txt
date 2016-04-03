@@ -1,0 +1,2 @@
+severity       - ważność
+technical debt - dług techniczny (nie technologiczny)
